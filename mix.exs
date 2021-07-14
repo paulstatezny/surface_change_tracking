@@ -42,7 +42,9 @@ defmodule SurfaceChangeTracking.MixProject do
       {:telemetry_poller, "~> 0.4"},
       {:jason, "~> 1.0"},
       {:plug_cowboy, "~> 2.0"},
-      {:surface, "~> 0.5.1"}
+      {:surface, "~> 0.5.1"},
+      {:ecto, "~> 3.6"},
+      {:phoenix_ecto, "~> 4.0"}
     ]
   end
 
