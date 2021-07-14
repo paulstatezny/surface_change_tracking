@@ -17,7 +17,7 @@ defmodule SurfaceChangeTrackingWeb.Router do
   scope "/", SurfaceChangeTrackingWeb do
     pipe_through :browser
 
-    live "/", PageLive, :index
+    live "/", SlotsLive, :index
   end
 
   # Other scopes may use custom stacks.

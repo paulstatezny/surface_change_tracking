@@ -9,3 +9,8 @@ To start the Phoenix server:
   * Start Phoenix endpoint with `mix phx.server`
 
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
+
+## To view the problem scenario
+
+Start the server as directed above, and navigate to [`localhost:4000`](http://localhost:4000).
+The page contains instructions and explanation.
