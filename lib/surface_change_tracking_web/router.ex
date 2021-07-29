@@ -18,6 +18,7 @@ defmodule SurfaceChangeTrackingWeb.Router do
     pipe_through :browser
 
     live "/", SlotsLive, :index
+    live "/form-for-changeset", FormChangesetLive, :form_changeset
   end
 
   # Other scopes may use custom stacks.
