@@ -10,7 +10,16 @@ To start the Phoenix server:
 
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
-## To view the problem scenario
+## Problem scenarios
 
-Start the server as directed above, and navigate to [`localhost:4000`](http://localhost:4000).
+### Change tracking breaking with nested components using slots
+
+Start the server as directed above, and navigate to
+[`localhost:4000`](http://localhost:4000).  The page contains instructions and
+explanation.
+
+### Change tracking breaking with Forms backed by Changesets
+
+Start the server as directed above, and navigate to
+[`localhost:4000/form-for-changeset`](http://localhost:4000/form-for-changeset).
 The page contains instructions and explanation.
